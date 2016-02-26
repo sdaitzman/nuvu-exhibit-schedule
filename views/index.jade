@@ -12,7 +12,7 @@ body
         img.circle-line(src="", alt="")
       div.logotype-wrapper
         img.logotype(src="", alt="")
-    each presentation in presentations
+    each exhibit in exhibits
       div.row-wrapper
         div.lines-wrapper
           div.vertical-line-wrapper
@@ -21,6 +21,6 @@ body
             div.horizontal-line
         div.presention-wrapper
           div.presention-box
-        
-        
-      
+            h1= exhibit.title
+            h2= exhibit.students
+            p= exhibit.text

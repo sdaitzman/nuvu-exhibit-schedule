@@ -7,7 +7,8 @@ app.use(express.static('www'))
 
 app.get('/', (req, res) => {
   res.render('index', {
-    title: 'NuVu Exhibit Schedule'
+    "title": 'NuVu Exhibit Schedule',
+    "exhibits": exhibits
   })
 })
 
