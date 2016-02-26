@@ -1,3 +1,12 @@
-body {
-  background: pink;
+@import "variables";
+
+body, html {
+  background-color: $dark-bg;
+  color: white;
+  font-weight: 300;
+}
+
+.page-wrapper {
+  display: flex;
+
 }
