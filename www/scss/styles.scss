@@ -12,14 +12,20 @@ body, html {
 }
 
 .row-wrapper {
+  display: flex;
   flex-direction: row;
   padding: 50px 10%;
   align-items: center;
+  justify-items: center;
+}
 
+.logotype-row-wrapper {
+  flex-direction: column;
 }
 
 .logotype {
-
+  width: 50%;
+  height: auto;
 }
 
 .presention-box{
