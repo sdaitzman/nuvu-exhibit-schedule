@@ -8,20 +8,12 @@ head
 body
   div.page-wrapper
     div.row-wrapper
-      div.circle-line-wrapper
-        img.circle-line(src="/img/circle-line.svg")
       div.logotype-wrapper-wrapper
         div.logotype-wrapper-wrapper    
           img.logotype(src="/img/logotype.svg", alt="NuVu Exhibit Schedule")
     each exhibit in exhibits
       div.row-wrapper
-        div.lines-wrapper
-          div.vertical-line-wrapper
-            div.vertical-line
-          div.horizontal-line-wrapper
-            div.horizontal-line
-        div.presention-wrapper
-          div.presention-box
-            h1= exhibit.title
-            h2= exhibit.students
-            p= exhibit.text
+        div.presention-box
+          h1= exhibit.title
+          h2= exhibit.students
+          p= exhibit.text
