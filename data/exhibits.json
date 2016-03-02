@@ -1,70 +1,14 @@
 [
   {
-    "title": "MEDIA HUB",
-    "students": "LOUIE ADAMIAN, SAM DAITMAN",
+    "title": "SLEEP DEPRIVATION IN TEENS",
+    "students": "STEFANO PAGANI, JAKON SPERRY",
     "text": "Everyone sleeps, it helps your body charge up for the day. As you get older your body needs less and less sleep. But our modern school system doesn't let teens get the sleep that they need. This is because middle and high school starts too earle and assigns too much homework. Teens dont have enough hours in the day to do everything that our busy lives require.",
     "imgSrc": "/student life/presentation schedule/Icons/svg/independent Project.svg",
     "imageName": "LaserQueue"
   },
   {
-    "title": "SPINE",
-    "students": "HUDSON ROODY, ETHAN WOOD",
-    "text": "Curabitur tempus nibh mauris, et tincidunt mauris tincidunt nec. Nullam et sapien condimentum, rutrum purus at, convallis est. Sed consectetur orci arcu, eu ultricies mi ultrices nec. Praesent vulputate leo pellentesque porttitor suscipit. Nulla sed dolor magna. Sed ac mollis nulla. Nunc facilisis rutrum risus non facilisis. Phasellus malesuada, nunc non gravida euismod, odio lorem varius diam, sed dignissim magna nunc ac sem. Integer eget est quis diam elementum interdum vitae in nisl. Integer volutpat mauris nunc, nec luctus magna laoreet quis. Mauris vitae purus neque. Aliquam suscipit gravida tellus non congue. Nulla facilisi. Pellentesque ultrices ac quam et aliquam.",
-    "imgSrc": "/images/cart.png",
-    "imageName": "Falafel Cart"
-  },
-  {
-    "title": "WEARABLE HAMMOCK",
-    "students": "Simone Alexander, Alexia Duarte",
-    "text": "Aenean in sodales diam, in finibus sapien. Aenean luctus turpis dignissim, imperdiet ligula vitae, ornare tortor. Aenean nulla justo, congue sed erat ut, viverra pulvinar mi. Pellentesque et felis vitae ipsum faucibus varius. Quisque porta cursus arcu nec consectetur. Pellentesque ullamcorper risus est, id feugiat odio auctor vestibulum. Duis fermentum, justo vel ornare tincidunt, lacus ex interdum ipsum, ac rutrum sem sem posuere velit. Vestibulum vehicula cursus risus ac auctor. Maecenas vel purus ex. Nam nec ligula arcu. Nullam luctus sapien at nisi laoreet tristique. Curabitur porttitor, lorem ac hendrerit pretium, nibh odio accumsan leo, vitae porta lorem sem sed augue. Aenean nec orci vitae erat tempor luctus. Aenean sit amet consectetur metus, a hendrerit arcu. Aliquam eleifend nibh enim, vel fermentum quam congue sed. Sed nec sem viverra, mattis nisl id, condimentum mauris.",
-    "imgSrc": "/images/logo.png",
-    "imageName": "Simon's animation"
-  },
-  {
-    "title": "Arrow Terrarium",
-    "students": "Peter Rabinovitz, Sofia Cabral, Walker Danforth, Carter McDivitt",
-    "text": "Sed scelerisque eu ipsum at commodo. Nullam a lorem convallis, blandit purus id, pretium tortor. Morbi tempus massa et tellus molestie, efficitur rhoncus mi ornare. Morbi lacinia vehicula volutpat. Nam faucibus lacinia libero eget tincidunt. Phasellus eget facilisis nisl. Sed aliquet consequat ante et laoreet. In purus ligula, varius quis lobortis eu, convallis eu lacus. Sed imperdiet eros in est scelerisque pellentesque. Nullam id leo a tortor maximus imperdiet venenatis a dui. Donec accumsan metus non urna lobortis sagittis. In ut nisi lobortis erat pretium volutpat. Maecenas viverra ex nec eros pellentesque, in blandit nibh lobortis.",
-    "imgSrc": "/images/logo.png",
-    "imageName": "LaserQueue"
-  },
-  {
-    "title": "Let's Talk About Sex Podcast",
-    "students": "Let's Talk About Sex Podcast",
-    "text": "Sed scelerisque eu ipsum at commodo. Nullam a lorem convallis, blandit purus id, pretium tortor. Morbi tempus massa et tellus molestie, efficitur rhoncus mi ornare. Morbi lacinia vehicula volutpat. Nam faucibus lacinia libero eget tincidunt. Phasellus eget facilisis nisl. Sed aliquet consequat ante et laoreet. In purus ligula, varius quis lobortis eu, convallis eu lacus. Sed imperdiet eros in est scelerisque pellentesque. Nullam id leo a tortor maximus imperdiet venenatis a dui. Donec accumsan metus non urna lobortis sagittis. In ut nisi lobortis erat pretium volutpat. Maecenas viverra ex nec eros pellentesque, in blandit nibh lobortis.",
-    "imgSrc": "/images/logo.png",
-    "imageName": "LaserQueue"
-  },
-  {
-    "title": "Parkinsons Empathy Generator",
-    "students": "Jabari Johnson, Samuel Waldman, Ryan Habermann",
-    "text": "Curabitur tempus nibh mauris, et tincidunt mauris tincidunt nec. Nullam et sapien condimentum, rutrum purus at, convallis est. Sed consectetur orci arcu, eu ultricies mi ultrices nec. Praesent vulputate leo pellentesque porttitor suscipit. Nulla sed dolor magna. Sed ac mollis nulla. Nunc facilisis rutrum risus non facilisis. Phasellus malesuada, nunc non gravida euismod, odio lorem varius diam, sed dignissim magna nunc ac sem. Integer eget est quis diam elementum interdum vitae in nisl. Integer volutpat mauris nunc, nec luctus magna laoreet quis. Mauris vitae purus neque. Aliquam suscipit gravida tellus non congue. Nulla facilisi. Pellentesque ultrices ac quam et aliquam.",
-    "imgSrc": "/images/cart.png",
-    "imageName": "Falafel Cart"
-  },
-  {
-    "title": "Prosthetic Bow Hand",
-    "students": "Jonah Stillman, Christine Bourdeau",
-    "text": "Aenean in sodales diam, in finibus sapien. Aenean luctus turpis dignissim, imperdiet ligula vitae, ornare tortor. Aenean nulla justo, congue sed erat ut, viverra pulvinar mi. Pellentesque et felis vitae ipsum faucibus varius. Quisque porta cursus arcu nec consectetur. Pellentesque ullamcorper risus est, id feugiat odio auctor vestibulum. Duis fermentum, justo vel ornare tincidunt, lacus ex interdum ipsum, ac rutrum sem sem posuere velit. Vestibulum vehicula cursus risus ac auctor. Maecenas vel purus ex. Nam nec ligula arcu. Nullam luctus sapien at nisi laoreet tristique. Curabitur porttitor, lorem ac hendrerit pretium, nibh odio accumsan leo, vitae porta lorem sem sed augue. Aenean nec orci vitae erat tempor luctus. Aenean sit amet consectetur metus, a hendrerit arcu. Aliquam eleifend nibh enim, vel fermentum quam congue sed. Sed nec sem viverra, mattis nisl id, condimentum mauris.",
-    "imgSrc": "/images/logo.png",
-    "imageName": "Simon's animation"
-  },
-  {
-    "title": "COn",
-    "students": "Samuel Waldman",
-    "text": "Sed scelerisque eu ipsum at commodo. Nullam a lorem convallis, blandit purus id, pretium tortor. Morbi tempus massa et tellus molestie, efficitur rhoncus mi ornare. Morbi lacinia vehicula volutpat. Nam faucibus lacinia libero eget tincidunt. Phasellus eget facilisis nisl. Sed aliquet consequat ante et laoreet. In purus ligula, varius quis lobortis eu, convallis eu lacus. Sed imperdiet eros in est scelerisque pellentesque. Nullam id leo a tortor maximus imperdiet venenatis a dui. Donec accumsan metus non urna lobortis sagittis. In ut nisi lobortis erat pretium volutpat. Maecenas viverra ex nec eros pellentesque, in blandit nibh lobortis.",
-    "imgSrc": "/images/logo.png",
-    "imageName": "LaserQueue"
-  },
-  {
-    "title": "Competitive Videogaming",
-    "students": "Simon Zalesky",
-    "text": "Sed scelerisque eu ipsum at commodo. Nullam a lorem convallis, blandit purus id, pretium tortor. Morbi tempus massa et tellus molestie, efficitur rhoncus mi ornare. Morbi lacinia vehicula volutpat. Nam faucibus lacinia libero eget tincidunt. Phasellus eget facilisis nisl. Sed aliquet consequat ante et laoreet. In purus ligula, varius quis lobortis eu, convallis eu lacus. Sed imperdiet eros in est scelerisque pellentesque. Nullam id leo a tortor maximus imperdiet venenatis a dui. Donec accumsan metus non urna lobortis sagittis. In ut nisi lobortis erat pretium volutpat. Maecenas viverra ex nec eros pellentesque, in blandit nibh lobortis.",
-    "imgSrc": "/images/logo.png",
-    "imageName": "LaserQueue"
-  },
-  {
-    "title": "Frog Jumper",
-    "students": "Sofia Cabral, Jack Saperstone",
+    "title": "Falafel Cart",
+    "students": "Ethan, Sam, Lila",
     "text": "Curabitur tempus nibh mauris, et tincidunt mauris tincidunt nec. Nullam et sapien condimentum, rutrum purus at, convallis est. Sed consectetur orci arcu, eu ultricies mi ultrices nec. Praesent vulputate leo pellentesque porttitor suscipit. Nulla sed dolor magna. Sed ac mollis nulla. Nunc facilisis rutrum risus non facilisis. Phasellus malesuada, nunc non gravida euismod, odio lorem varius diam, sed dignissim magna nunc ac sem. Integer eget est quis diam elementum interdum vitae in nisl. Integer volutpat mauris nunc, nec luctus magna laoreet quis. Mauris vitae purus neque. Aliquam suscipit gravida tellus non congue. Nulla facilisi. Pellentesque ultrices ac quam et aliquam.",
     "imgSrc": "/images/cart.png",
     "imageName": "Falafel Cart"
@@ -96,97 +40,76 @@
     "text": "Curabitur tempus nibh mauris, et tincidunt mauris tincidunt nec. Nullam et sapien condimentum, rutrum purus at, convallis est. Sed consectetur orci arcu, eu ultricies mi ultrices nec. Praesent vulputate leo pellentesque porttitor suscipit. Nulla sed dolor magna. Sed ac mollis nulla. Nunc facilisis rutrum risus non facilisis. Phasellus malesuada, nunc non gravida euismod, odio lorem varius diam, sed dignissim magna nunc ac sem. Integer eget est quis diam elementum interdum vitae in nisl. Integer volutpat mauris nunc, nec luctus magna laoreet quis. Mauris vitae purus neque. Aliquam suscipit gravida tellus non congue. Nulla facilisi. Pellentesque ultrices ac quam et aliquam.",
     "imgSrc": "/images/cart.png",
     "imageName": "Falafel Cart"
-  }
+  },
   {
-    "title": "Ain't No Mountain High Enough",
-    "students": "William Drubner",
+    "title": "The History of competitve gaming",
+    "students": "Simon",
+    "text": "Aenean in sodales diam, in finibus sapien. Aenean luctus turpis dignissim, imperdiet ligula vitae, ornare tortor. Aenean nulla justo, congue sed erat ut, viverra pulvinar mi. Pellentesque et felis vitae ipsum faucibus varius. Quisque porta cursus arcu nec consectetur. Pellentesque ullamcorper risus est, id feugiat odio auctor vestibulum. Duis fermentum, justo vel ornare tincidunt, lacus ex interdum ipsum, ac rutrum sem sem posuere velit. Vestibulum vehicula cursus risus ac auctor. Maecenas vel purus ex. Nam nec ligula arcu. Nullam luctus sapien at nisi laoreet tristique. Curabitur porttitor, lorem ac hendrerit pretium, nibh odio accumsan leo, vitae porta lorem sem sed augue. Aenean nec orci vitae erat tempor luctus. Aenean sit amet consectetur metus, a hendrerit arcu. Aliquam eleifend nibh enim, vel fermentum quam congue sed. Sed nec sem viverra, mattis nisl id, condimentum mauris.",
+    "imgSrc": "/images/logo.png",
+    "imageName": "Simon's animation"
+  },
+  {
+    "title": "LaserQueue",
+    "students": "Sam D",
+    "text": "Sed scelerisque eu ipsum at commodo. Nullam a lorem convallis, blandit purus id, pretium tortor. Morbi tempus massa et tellus molestie, efficitur rhoncus mi ornare. Morbi lacinia vehicula volutpat. Nam faucibus lacinia libero eget tincidunt. Phasellus eget facilisis nisl. Sed aliquet consequat ante et laoreet. In purus ligula, varius quis lobortis eu, convallis eu lacus. Sed imperdiet eros in est scelerisque pellentesque. Nullam id leo a tortor maximus imperdiet venenatis a dui. Donec accumsan metus non urna lobortis sagittis. In ut nisi lobortis erat pretium volutpat. Maecenas viverra ex nec eros pellentesque, in blandit nibh lobortis.",
+    "imgSrc": "/images/logo.png",
+    "imageName": "LaserQueue"
+  },
+  {
+    "title": "LaserQueue",
+    "students": "Sam D",
+    "text": "Sed scelerisque eu ipsum at commodo. Nullam a lorem convallis, blandit purus id, pretium tortor. Morbi tempus massa et tellus molestie, efficitur rhoncus mi ornare. Morbi lacinia vehicula volutpat. Nam faucibus lacinia libero eget tincidunt. Phasellus eget facilisis nisl. Sed aliquet consequat ante et laoreet. In purus ligula, varius quis lobortis eu, convallis eu lacus. Sed imperdiet eros in est scelerisque pellentesque. Nullam id leo a tortor maximus imperdiet venenatis a dui. Donec accumsan metus non urna lobortis sagittis. In ut nisi lobortis erat pretium volutpat. Maecenas viverra ex nec eros pellentesque, in blandit nibh lobortis.",
+    "imgSrc": "/images/logo.png",
+    "imageName": "LaserQueue"
+  },
+  {
+    "title": "Falafel Cart",
+    "students": "Ethan, Sam, Lila",
+    "text": "Curabitur tempus nibh mauris, et tincidunt mauris tincidunt nec. Nullam et sapien condimentum, rutrum purus at, convallis est. Sed consectetur orci arcu, eu ultricies mi ultrices nec. Praesent vulputate leo pellentesque porttitor suscipit. Nulla sed dolor magna. Sed ac mollis nulla. Nunc facilisis rutrum risus non facilisis. Phasellus malesuada, nunc non gravida euismod, odio lorem varius diam, sed dignissim magna nunc ac sem. Integer eget est quis diam elementum interdum vitae in nisl. Integer volutpat mauris nunc, nec luctus magna laoreet quis. Mauris vitae purus neque. Aliquam suscipit gravida tellus non congue. Nulla facilisi. Pellentesque ultrices ac quam et aliquam.",
+    "imgSrc": "/images/cart.png",
+    "imageName": "Falafel Cart"
+  },
+  {
+    "title": "The History of competitve gaming",
+    "students": "Simon",
+    "text": "Aenean in sodales diam, in finibus sapien. Aenean luctus turpis dignissim, imperdiet ligula vitae, ornare tortor. Aenean nulla justo, congue sed erat ut, viverra pulvinar mi. Pellentesque et felis vitae ipsum faucibus varius. Quisque porta cursus arcu nec consectetur. Pellentesque ullamcorper risus est, id feugiat odio auctor vestibulum. Duis fermentum, justo vel ornare tincidunt, lacus ex interdum ipsum, ac rutrum sem sem posuere velit. Vestibulum vehicula cursus risus ac auctor. Maecenas vel purus ex. Nam nec ligula arcu. Nullam luctus sapien at nisi laoreet tristique. Curabitur porttitor, lorem ac hendrerit pretium, nibh odio accumsan leo, vitae porta lorem sem sed augue. Aenean nec orci vitae erat tempor luctus. Aenean sit amet consectetur metus, a hendrerit arcu. Aliquam eleifend nibh enim, vel fermentum quam congue sed. Sed nec sem viverra, mattis nisl id, condimentum mauris.",
+    "imgSrc": "/images/logo.png",
+    "imageName": "Simon's animation"
+  },
+  {
+    "title": "LaserQueue",
+    "students": "Sam D",
+    "text": "Sed scelerisque eu ipsum at commodo. Nullam a lorem convallis, blandit purus id, pretium tortor. Morbi tempus massa et tellus molestie, efficitur rhoncus mi ornare. Morbi lacinia vehicula volutpat. Nam faucibus lacinia libero eget tincidunt. Phasellus eget facilisis nisl. Sed aliquet consequat ante et laoreet. In purus ligula, varius quis lobortis eu, convallis eu lacus. Sed imperdiet eros in est scelerisque pellentesque. Nullam id leo a tortor maximus imperdiet venenatis a dui. Donec accumsan metus non urna lobortis sagittis. In ut nisi lobortis erat pretium volutpat. Maecenas viverra ex nec eros pellentesque, in blandit nibh lobortis.",
+    "imgSrc": "/images/logo.png",
+    "imageName": "LaserQueue"
+  },
+  {
+    "title": "LaserQueue",
+    "students": "Sam D",
+    "text": "Sed scelerisque eu ipsum at commodo. Nullam a lorem convallis, blandit purus id, pretium tortor. Morbi tempus massa et tellus molestie, efficitur rhoncus mi ornare. Morbi lacinia vehicula volutpat. Nam faucibus lacinia libero eget tincidunt. Phasellus eget facilisis nisl. Sed aliquet consequat ante et laoreet. In purus ligula, varius quis lobortis eu, convallis eu lacus. Sed imperdiet eros in est scelerisque pellentesque. Nullam id leo a tortor maximus imperdiet venenatis a dui. Donec accumsan metus non urna lobortis sagittis. In ut nisi lobortis erat pretium volutpat. Maecenas viverra ex nec eros pellentesque, in blandit nibh lobortis.",
+    "imgSrc": "/images/logo.png",
+    "imageName": "LaserQueue"
+  },
+  {
+    "title": "Falafel Cart",
+    "students": "Ethan, Sam, Lila",
+    "text": "Curabitur tempus nibh mauris, et tincidunt mauris tincidunt nec. Nullam et sapien condimentum, rutrum purus at, convallis est. Sed consectetur orci arcu, eu ultricies mi ultrices nec. Praesent vulputate leo pellentesque porttitor suscipit. Nulla sed dolor magna. Sed ac mollis nulla. Nunc facilisis rutrum risus non facilisis. Phasellus malesuada, nunc non gravida euismod, odio lorem varius diam, sed dignissim magna nunc ac sem. Integer eget est quis diam elementum interdum vitae in nisl. Integer volutpat mauris nunc, nec luctus magna laoreet quis. Mauris vitae purus neque. Aliquam suscipit gravida tellus non congue. Nulla facilisi. Pellentesque ultrices ac quam et aliquam.",
+    "imgSrc": "/images/cart.png",
+    "imageName": "Falafel Cart"
+  },
+  {
+    "title": "The History of competitve gaming",
+    "students": "Simon",
+    "text": "Aenean in sodales diam, in finibus sapien. Aenean luctus turpis dignissim, imperdiet ligula vitae, ornare tortor. Aenean nulla justo, congue sed erat ut, viverra pulvinar mi. Pellentesque et felis vitae ipsum faucibus varius. Quisque porta cursus arcu nec consectetur. Pellentesque ullamcorper risus est, id feugiat odio auctor vestibulum. Duis fermentum, justo vel ornare tincidunt, lacus ex interdum ipsum, ac rutrum sem sem posuere velit. Vestibulum vehicula cursus risus ac auctor. Maecenas vel purus ex. Nam nec ligula arcu. Nullam luctus sapien at nisi laoreet tristique. Curabitur porttitor, lorem ac hendrerit pretium, nibh odio accumsan leo, vitae porta lorem sem sed augue. Aenean nec orci vitae erat tempor luctus. Aenean sit amet consectetur metus, a hendrerit arcu. Aliquam eleifend nibh enim, vel fermentum quam congue sed. Sed nec sem viverra, mattis nisl id, condimentum mauris.",
+    "imgSrc": "/images/logo.png",
+    "imageName": "Simon's animation"
+  },
+  {
+    "title": "LaserQueue",
+    "students": "Sam D",
     "text": "Sed scelerisque eu ipsum at commodo. Nullam a lorem convallis, blandit purus id, pretium tortor. Morbi tempus massa et tellus molestie, efficitur rhoncus mi ornare. Morbi lacinia vehicula volutpat. Nam faucibus lacinia libero eget tincidunt. Phasellus eget facilisis nisl. Sed aliquet consequat ante et laoreet. In purus ligula, varius quis lobortis eu, convallis eu lacus. Sed imperdiet eros in est scelerisque pellentesque. Nullam id leo a tortor maximus imperdiet venenatis a dui. Donec accumsan metus non urna lobortis sagittis. In ut nisi lobortis erat pretium volutpat. Maecenas viverra ex nec eros pellentesque, in blandit nibh lobortis.",
     "imgSrc": "/images/logo.png",
     "imageName": "LaserQueue"
   }
-{
-  "title":"Laser Mug",
-  "students":"Ethan Wood",
-  "text":"",
-  "imgSrc":"",
-  "imageName":""
-}
-{
-  "title":"Interactive Staircase",
-  "students":"Jay Weiss-Curry, Memphis Grace MacPherson",
-  "text":"",
-  "imgSrc":"",
-  "imageName":""
-}
-{
-  "title":"Hover Suit",
-  "students":"Steve Sterling",
-  "text":"",
-  "imgSrc":"",
-  "imageName":""
-}
-{
-  "title":"Chameleon Website",
-  "students":"Sofia Love",
-  "text":"",
-  "imgSrc":"",
-  "imageName":""
-}
-{
-  "title":"Diabetes Website",
-  "students":"Oona Sullivan",
-  "text":"",
-  "imgSrc":"",
-  "imageName":""
-}
-{
-  "title":"Evolution Website",
-  "students":"David Winston",
-  "text":"",
-  "imgSrc":"",
-  "imageName":""
-}
-{
-  "title":"Sacred Geometry Website",
-  "students":"Noah Zakarian",
-  "text":"",
-  "imgSrc":"",
-  "imageName":""
-}{
-  "title": "Golf Simulator",
-  "students": "Nicholas Vaream, Jack Saperstone, Aram Soultanian",
-  "text": "Aenean in sodales diam, in finibus sapien. Aenean luctus turpis dignissim, imperdiet ligula vitae, ornare tortor. Aenean nulla justo, congue sed erat ut, viverra pulvinar mi. Pellentesque et felis vitae ipsum faucibus varius. Quisque porta cursus arcu nec consectetur. Pellentesque ullamcorper risus est, id feugiat odio auctor vestibulum. Duis fermentum, justo vel ornare tincidunt, lacus ex interdum ipsum, ac rutrum sem sem posuere velit. Vestibulum vehicula cursus risus ac auctor. Maecenas vel purus ex. Nam nec ligula arcu. Nullam luctus sapien at nisi laoreet tristique. Curabitur porttitor, lorem ac hendrerit pretium, nibh odio accumsan leo, vitae porta lorem sem sed augue. Aenean nec orci vitae erat tempor luctus. Aenean sit amet consectetur metus, a hendrerit arcu. Aliquam eleifend nibh enim, vel fermentum quam congue sed. Sed nec sem viverra, mattis nisl id, condimentum mauris.",
-  "imgSrc": "/images/logo.png",
-  "imageName": "Simon's animation"
-}{
-  "title":"Empathy Net",
-  "students":"Sasha Rizika, Tali Bers",
-  "text":"",
-  "imgSrc":"",
-  "imageName":""
-}{
-  "title":"Will Smith Mash",
-  "students":"Peter Rabinovitz",
-  "text":"",
-  "imgSrc":"",
-  "imageName":""
-}{
-  "title":"Pottery Simulator",
-  "students":"Sophie Goldstein, Myles Lack-Zell",
-  "text":"",
-  "imgSrc":"",
-  "imageName":""
-}{
-  "title":"Sleep Deprivation",
-  "students":"Jakob Sperry, Stefano Pagani",
-  "text":"",
-  "imgSrc":"",
-  "imageName":""
-}{
-  "title":"Interactive Music & Art",
-  "students":" Connor LaBelle",
-  "text":"",
-  "imgSrc":"",
-  "imageName":""
-}
+
 ]
