@@ -1,18 +1,16 @@
 @import "variables";
 
 body, html {
-  background-color: $dark-bg;
+  background-color: $nuvu-pink;
   color: white;
   font-weight: 300;
+  font-family: Montserrat, sans-serif;
 }
 
 .page-wrapper {
   display: flex;
   flex-direction: column;
-@font-face{
-  font-family:Montserrat;
-  <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-}
+
 }
 
 .row-wrapper {
@@ -24,29 +22,29 @@ body, html {
 }
 
 .logotype-row-wrapper {
-  flex-direction: column;
+align-items: start;
+ border-bottom: solid #ffffff;
 }
 
 .logotype {
   width: 50%;
   height: auto;
 }
+.presention-box-wrapper{
+background: white;
+padding: 5px 5px;
+border-radius:15px;
+
+}
+
 
 .presention-box{
 border-radius:15px;
-background: $dark-bg;
-
+background: $nuvu-pink;
 color: #ffffff;
-padding: 5px 20px;
-;
-
-}
-
-.presention-box-wrapper{
-  background: #ffffff;
-border-radius:15px;
 padding: 5px 5px;
 }
+
 
 .presentation-img{
   width: 20%;
