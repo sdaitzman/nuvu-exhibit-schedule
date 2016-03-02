@@ -6,6 +6,7 @@ var exhibits = require('./data/exhibits.json')
 
 _.forEach(exhibits, (e) => {
   e.students = e.students.toUpperCase()
+  e.title = e.title.toUpperCase()
 })
 
 app.set('view engine', 'jade')
