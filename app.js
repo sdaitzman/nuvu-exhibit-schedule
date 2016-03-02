@@ -12,6 +12,10 @@ app.get('/', (req, res) => {
   })
 })
 
-app.listen(3000, () => {
+var appPort = 3000
+if (app.get('env') === 'production') appPort = 80
+
+console.log(appPort)
+app.listen(appPort, () => {
   console.log('NuVu Exhibit Schedule listening')
 })
