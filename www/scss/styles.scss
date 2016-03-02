@@ -24,6 +24,7 @@ body, html {
 .logotype-row-wrapper {
 align-items: start;
  border-bottom: solid #ffffff;
+ padding:
 }
 
 .logotype {
@@ -32,7 +33,7 @@ align-items: start;
 }
 .presention-box-wrapper{
 background: white;
-padding: 5px 5px;
+padding: 10px 10px;
 border-radius:15px;
 
 }
@@ -43,6 +44,7 @@ border-radius:15px;
 background: $nuvu-pink;
 color: #ffffff;
 padding: 5px 5px;
+border: white bottom 5px;
 }
 
 
