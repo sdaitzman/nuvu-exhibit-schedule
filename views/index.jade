@@ -8,11 +8,12 @@ head
 body
   div.page-wrapper
     div.row-wrapper.logotype-row-wrapper
-      img.logotype(src="/img/logotype.svg", alt="NuVu Exhibit Schedule")
+      img.logotype(src="/img/logotype-2.svg", alt="NuVu Exhibit Schedule")
     each exhibit in exhibits
       div.row-wrapper
-        div.presention-box
-          h1= exhibit.title
-          h2= exhibit.students
-          p= exhibit.text
-          
+        div.presention-box-wrapper
+          div.presention-box
+            h1= exhibit.title
+            h3= exhibit.students
+            p= exhibit.text
+            

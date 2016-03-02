@@ -9,6 +9,10 @@ body, html {
 .page-wrapper {
   display: flex;
   flex-direction: column;
+@font-face{
+  font-family:Montserrat;
+  <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+}
 }
 
 .row-wrapper {
@@ -30,9 +34,21 @@ body, html {
 
 .presention-box{
 border-radius:15px;
-background: #ffffff;
-color: #000000;
+background: $dark-bg;
+
+color: #ffffff;
 padding: 5px 20px;
 ;
 
+}
+
+.presention-box-wrapper{
+  background: #ffffff;
+border-radius:15px;
+padding: 5px 5px;
+}
+
+.presentation-img{
+  width: 20%;
+  height: autoz;
 }
