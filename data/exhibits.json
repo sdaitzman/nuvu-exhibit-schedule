@@ -1,9 +1,143 @@
 [
-  {
-    "title": "",
-    "students":"",
+    {
+    "title": "Media Hub/App/Film",
+    "students":"Lila Hempel-Edgers, Louie Adamian, Sam Daitzman, Micah Reid ",
     "text":"",
     "imgSrc":"",
     "imageName":""
-}
+    }{
+    "title": "Spine",
+    "students":"Ethan Wood, Hudson Roddy",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Wearable Hammock",
+    "students":"Simone Alexander, Alexia Duarte",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Arrow Terrarium",
+    "students":"Peter Rabinovitz, Sofia Cabral, Walker Danforth, Carter McDivitt",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Let's Talk About Sex Podcast",
+    "students":"Lila Hempel-Edgers, Sam Daitzman, Sofia Love",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Parkinsons Empathy Generator",
+    "students":"Jabari Johnson, Samuel Waldman, Ryan Habermann",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Competitive Videogaming",
+    "students":"Simon Zalesky",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Collapsible Sound Booth",
+    "students":"Pierce Adams",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Prosthetic Bow Hand",
+    "students":"Jonah Stillman, Christine Bourdeau",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Ain't No Mountain Mash Up",
+    "students":"William Drubner",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }
+    {
+    "title": "Laser Mug",
+    "students":"Ethan Wood",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Magical Staircase",
+    "students":"Jay Weiss-Curry, Memphis Grace MacPherson",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Hover Suit",
+    "students":"Steve Sterling",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }
+    {
+    "title": "Chameleon Website",
+    "students":"Sofia Love",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Diabetes Website",
+    "students":"Oona Sullivan",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Evolution Website",
+    "students":"David Winston",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Sacred Geometry Website",
+    "students":"Noah Zakarian",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Swing Stance",
+    "students":" Nicholas Vaream, Jack Saperstone, Aram Soultanian",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Empathy Net",
+    "students":"Sasha Rizika, Tali Bers",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Will Smith Mash",
+    "students":"Peter Rabinovitz",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Pottery Simulator",
+    "students":"Sophie Goldstein, Myles Lack-Zell",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Sleep Deprivation",
+    "students":"Jakob Sperry, Stefano Pagani",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }{
+    "title": "Interactive Music & Art",
+    "students":"Connor LaBelle",
+    "text":"",
+    "imgSrc":"",
+    "imageName":""
+    }
 ]
