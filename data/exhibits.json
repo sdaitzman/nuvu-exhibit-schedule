@@ -2,7 +2,7 @@
   "title": "Media Hub/App/Film",
   "students": "Lila Hempel-Edgers, Louie Adamian, Sam Daitzman, Micah Reid ",
   "text": "",
-  "imgSrc": "",
+  "imgSrc": "2015 Winter/05-IPP/student life/presentation schedule/Icons/Exhibit Icons 1",
   "imageName": ""
 }, {
   "title": "Spine",
@@ -58,13 +58,15 @@
   "text": "",
   "imgSrc": "",
   "imageName": ""
-}, {
+},{
+"title": "Intermission"
+},{
   "title": "Laser Mug",
   "students": "Ethan Wood",
   "text": "",
   "imgSrc": "",
   "imageName": ""
-}, {
+},{
   "title": "Magical Staircase",
   "students": "Jay Weiss-Curry, Memphis Grace MacPherson",
   "text": "",
@@ -119,6 +121,12 @@
   "imgSrc": "",
   "imageName": ""
 }, {
+  "title": "Frog Jumper",
+  "students": "Sofia Cabral, Jack Saperstone",
+  "text": "",
+  "imgSrc": "",
+  "imageName": ""
+},{
   "title": "Pottery Simulator",
   "students": "Sophie Goldstein, Myles Lack-Zell",
   "text": "",
