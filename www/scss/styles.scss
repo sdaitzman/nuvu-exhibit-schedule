@@ -16,7 +16,7 @@ body, html {
 .row-wrapper {
   display: flex;
   flex-direction: row;
-  padding: 50px 20%;
+  padding: 50px 10%;
   align-items: center;
   justify-items: center;
 }
@@ -30,23 +30,20 @@ align-items: start;
   width: 50%;
   height: auto;
 }
-.presention-box-wrapper{
-background: white;
-padding: 5px 5px;
-border-radius:15px;
-
-}
-
 
 .presention-box{
-border-radius:15px;
-background: $nuvu-pink;
-color: #ffffff;
-padding: 5px 5px;
+  width: 100%;
+  border-radius:15px;
+  background: $nuvu-pink;
+  color: #ffffff;
+  padding: 5px 5px;
+  display: flex;
+  flex-direction: column;
+  border: 3px solid white;
 }
 
 
 .presentation-img{
   width: 20%;
-  height: autoz;
+  height: auto;
 }
