@@ -47,3 +47,8 @@ align-items: start;
   width: 20%;
   height: auto;
 }
+
+h1, h3 {
+    align-self: flex-end;
+    text-align: right;
+}
