@@ -48,7 +48,15 @@ align-items: start;
   height: auto;
 }
 
-h1, h3 {
-    align-self: flex-end;
-    text-align: right;
+// h1, h3 {
+//   align-self: flex-end;
+//   text-align: right;
+// }
+
+h1 {
+  font-size: 22px;
+}
+
+h3 {
+  font-size: 18px;
 }
