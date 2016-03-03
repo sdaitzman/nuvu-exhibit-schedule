@@ -3,7 +3,7 @@
   "students": "Lila Hempel-Edgers, Louie Adamian, Sam Daitzman, Micah Reid ",
   "text": "",
   "imgSrc": "2015 Winter/05-IPP/student life/presentation schedule/Icons/Exhibit Icons 1",
-  "imageName": ""
+  "imageName": "/img/projects/hub.svg"
 }, {
   "title": "Spine",
   "students": "Ethan Wood, Hudson Roddy",
@@ -14,19 +14,19 @@
   "title": "Wearable Hammock",
   "students": "Simone Alexander, Alexia Duarte",
   "text": "",
-  "imgSrc": "",
+  "imgSrc": "/img/projects/hammok.svg",
   "imageName": ""
 }, {
   "title": "Arrow Terrarium",
   "students": "Peter Rabinovitz, Sofia Cabral, Walker Danforth, Carter McDivitt",
   "text": "",
-  "imgSrc": "",
+  "imgSrc": "/img/projects/arrow.svg",
   "imageName": ""
 }, {
   "title": "Let's Talk About Sex Podcast",
   "students": "Lila Hempel-Edgers, Sam Daitzman, Sofia Love",
   "text": "",
-  "imgSrc": "",
+  "imgSrc": "/img/projects/sex podcast.svg",
   "imageName": ""
 }, {
   "title": "Parkinsons Empathy Generator",
@@ -38,13 +38,13 @@
   "title": "Competitive Videogaming",
   "students": "Simon Zalesky",
   "text": "",
-  "imgSrc": "",
+  "imgSrc": "/img/projects/pro gaming.svg",
   "imageName": ""
 }, {
   "title": "Collapsible Sound Booth",
   "students": "Pierce Adams",
   "text": "",
-  "imgSrc": "",
+  "imgSrc": "/img/projects/sound booth.svg",
   "imageName": ""
 }, {
   "title": "Prosthetic Bow Hand",
@@ -70,7 +70,7 @@
   "title": "Magical Staircase",
   "students": "Jay Weiss-Curry, Memphis Grace MacPherson",
   "text": "",
-  "imgSrc": "",
+  "imgSrc": "/img/projects/maji stairsa.svg",
   "imageName": ""
 }, {
   "title": "Hover Suit",
@@ -82,13 +82,13 @@
   "title": "Chameleon Website",
   "students": "Sofia Love",
   "text": "",
-  "imgSrc": "",
+  "imgSrc": "/img/projects/Chameleon Website.svg",
   "imageName": ""
 }, {
   "title": "Diabetes Website",
   "students": "Oona Sullivan",
   "text": "",
-  "imgSrc": "",
+  "imgSrc": "/img/projects/diabetes webite.svg",
   "imageName": ""
 }, {
   "title": "Evolution Website",
@@ -124,7 +124,7 @@
   "title": "Frog Jumper",
   "students": "Sofia Cabral, Jack Saperstone",
   "text": "",
-  "imgSrc": "",
+  "imgSrc": "/img/projects/frog.svg",
   "imageName": ""
 },{
   "title": "Pottery Simulator",

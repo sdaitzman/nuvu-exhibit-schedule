@@ -5,7 +5,7 @@ var _ = require('lodash')
 var exhibits = require('./data/exhibits.json')
 
 _.forEach(exhibits, (e) => {
-  e.students = e.students.toUpperCase()
+//  e.students = e.students.toUpperCase()
 })
 
 app.set('view engine', 'jade')
